@@ -1,0 +1,3 @@
+Use os conceitos aprendidos de OSGI nos projetos AloMundoServico e AloMundoConsumidor para criar dois modulos OSGI.
+  - O primeiro modulo irá disponibilizar o serviço de análise de crédito do banco ACME, já realizados em laboratórios anteriores. Tenha cuidado para separar a interface da implementação no serviço de análise de crédito.
+  - O segundo módulo irá disponibilizar o restante do código e fazer uso do serviço de análise de crédito.
